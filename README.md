@@ -29,4 +29,6 @@ Some simulations are shown in the readme_files folder do check that out. Also sa
 
 Sample glider
 
+![Random Test cases](https://user-images.githubusercontent.com/62000079/121061575-a5e8d280-c7e1-11eb-805b-8ddc0b2115f1.mov)
+
 ![Glider](https://user-images.githubusercontent.com/62000079/121061552-9cf80100-c7e1-11eb-953f-4a1516675455.mov)
